@@ -1,0 +1,6 @@
+dataset_analysis/*.py
+dataset_analysis/WadaSNR
+dataset_analysis/CheckDatasetSNR.ipynb
+dataset_analysis/CheckPitch.ipynb
+dataset_analysis/CheckSpectrograms.ipynb
+dataset_analysis/PhonemeCoverage.ipynb
