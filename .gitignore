@@ -5,3 +5,4 @@ dataset_analysis/CheckPitch.ipynb
 dataset_analysis/CheckSpectrograms.ipynb
 dataset_analysis/PhonemeCoverage.ipynb
 output/*
+!output/github
